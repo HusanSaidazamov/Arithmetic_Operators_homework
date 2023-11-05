@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+raqam = 15
+raqam = raqam // 2  
+javob = raqam % 2  
+
+print(javob)  
+print(raqam)
