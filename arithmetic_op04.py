@@ -9,3 +9,12 @@
 #Create a variable called 'answer' and assign it the sum of the three digits.
 
 #print the sum of the three digits.
+raqam = 123
+
+x1 = raqam // 100
+x2 = (raqam // 10) % 10
+x3 = raqam % 10
+
+javob = x1 + x2 + x3
+
+print(javob)
